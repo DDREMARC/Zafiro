@@ -1,5 +1,7 @@
 # Z4firo
 
+[**Descargar el APK**](https://github.com/DDREMARC/Zafiro/releases/latest/download/Z4firo.apk) · [Todas las versiones](https://github.com/DDREMARC/Zafiro/releases)
+
 App Android nativa (Kotlin, Jetpack Compose, Material 3) de chat inspirada en Grok, impulsada por la **API oficial de Anthropic** (Messages API con streaming SSE).
 
 ## Características
