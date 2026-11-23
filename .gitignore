@@ -1,0 +1,22 @@
+# Build outputs
+*.iml
+.gradle/
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Local machine configuration (sdk.dir comes from ANDROID_HOME)
+local.properties
+
+# IDE
+.idea/
+*.hprof
+.DS_Store
+
+# Secrets: never commit API keys
+*.jks
+*.keystore
+keystore.properties
+.kotlin/

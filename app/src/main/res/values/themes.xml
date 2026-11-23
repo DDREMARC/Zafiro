@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compose draws the real UI; this theme only sets the window background
+         so there is no white flash before the first frame (dark is the default). -->
+    <style name="Theme.GrokBot" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/gb_background</item>
+        <item name="android:statusBarColor">@color/gb_background</item>
+        <item name="android:navigationBarColor">@color/gb_background</item>
+    </style>
+</resources>
